@@ -1,0 +1,19 @@
+README.md
+  s_16a7c74ee46c60::t_e828e678844040 20-23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "0c847be57c41f2e4f864e4a11ed3ee3767a4a16d",
+  "prompts": {},
+  "sessions": {
+    "s_16a7c74ee46c60": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e778358b8ffeJeJYLEAovqRqp6",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Omkar Khair <omkarkhair@gmail.com>"
+    }
+  }
+}
